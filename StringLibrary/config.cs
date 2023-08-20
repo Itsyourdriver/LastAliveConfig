@@ -15,9 +15,9 @@ namespace lastalive
         public bool Debug { get; set; } = false;
 
         [Description("Text to send the last player")]
-        public string MessageText { get; set; } = "You are the last one alive";
+        public string Text { get; set; } = "You are the last one alive";
 
         [Description("How long should we display the text for?")]
-        public int TextTime { get; set; } = 10;
+        public int Time { get; set; } = 10;
         }
 }
