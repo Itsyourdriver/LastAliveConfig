@@ -2,12 +2,12 @@
 using PluginAPI.Core;
 using PluginAPI.Core.Attributes;
 using PluginAPI.Enums;
-namespace testnamespace
+namespace lastalive
 {
-    public class test
+    public class plugin
     {
 
-        [PluginEntryPoint("example plugin", "1.0.0", "", "zInitial")]
+        [PluginEntryPoint("LastAlive, "1.0.0", "", "zInitial")]
         void OnEnabled()
         {
             PluginAPI.Events.EventManager.RegisterEvents(this);
