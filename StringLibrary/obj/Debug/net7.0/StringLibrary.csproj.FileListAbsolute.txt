@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net7.0\StringLibrary.deps.json
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net7.0\StringLibrary.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net7.0\StringLibrary.pdb
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\refint\StringLibrary.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.pdb
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\ref\StringLibrary.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net7.0\Assembly-CSharp-Publicized.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CopyComplete

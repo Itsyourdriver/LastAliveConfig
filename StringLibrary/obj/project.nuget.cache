@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNeukjgCOju2oXX+QEcWevob+fW9tU5Nkls7RZS0Lp1RBuH8uNSioKVuSuybizFGK19Edhxr8oDe3D8hSddL1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New folder (3)\\SLCodeTest\\StringLibrary\\StringLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\northwood.pluginapi\\13.1.0\\northwood.pluginapi.13.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\yamldotnet\\11.0.1\\yamldotnet.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

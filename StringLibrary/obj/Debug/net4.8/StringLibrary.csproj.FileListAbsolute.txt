@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net4.8\StringLibrary.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net4.8\StringLibrary.pdb
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net4.8\PluginAPI.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net4.8\YamlDotNet.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\bin\Debug\net4.8\Assembly-CSharp-Publicized.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.dll
+C:\Users\Admin\Desktop\New folder (3)\SLCodeTest\StringLibrary\obj\Debug\net4.8\StringLibrary.pdb
